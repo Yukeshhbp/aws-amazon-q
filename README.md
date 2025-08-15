@@ -81,7 +81,8 @@ q chat
 
 When Amazon Q restarts, it should display MCP servers like this:
 
-![MCP Tools Loaded](7c91c02e-de2e-4d56-afe4-49f2cb0fdf5e.png)
+<img width="593" height="230" alt="image" src="https://github.com/user-attachments/assets/bfe557f7-3b78-4530-946f-09e9b3cd4bd7" />
+
 
 ✅ **Expected:**
 
