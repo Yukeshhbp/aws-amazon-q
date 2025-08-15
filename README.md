@@ -50,7 +50,7 @@ chmod +x q/install.sh
 
 ---
 
-## 💬 5. Start Amazon Q Chat
+## 💬 2. Start Amazon Q Chat
 
 Once installed, start an interactive Amazon Q session:
 
@@ -70,7 +70,7 @@ I want to setup AWS diagram MCP server. Execute these steps:
 
 ---
 
-## 🔄 6. Restart Amazon Q & Verify MCP Tools
+## 🔄 3. Restart Amazon Q & Verify MCP Tools
 
 To restart Amazon Q:
 
@@ -124,7 +124,7 @@ And add it to:
 
 ---
 
-## 🖼 7. Generate an AWS Architecture Diagram
+## 🖼 4. Generate an AWS Architecture Diagram
 
 ### Step 1 — Prepare a High-Quality Prompt
 
