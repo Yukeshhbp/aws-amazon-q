@@ -176,7 +176,3 @@ You can preview it directly inside GitHub Codespaces.
 
 ```
 
----
-
-Do you want me to **embed the provided screenshot directly** in the README so it displays without needing the file in the repo, or keep it as a relative image link so it works when you commit it along with the PNG?
-```
