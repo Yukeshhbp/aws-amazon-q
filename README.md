@@ -174,5 +174,4 @@ You can preview it directly inside GitHub Codespaces.
 
 **Now you’re ready to create clear, precise AWS Architecture Diagrams directly from your GitHub Codespace using Amazon Q!**
 
-```
 
